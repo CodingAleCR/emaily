@@ -63,3 +63,4 @@ typings/
 # Keys
 google-keys.js
 mongodb-keys.js
+cookie-keys.js
